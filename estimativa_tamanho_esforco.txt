@@ -1,0 +1,11 @@
+Quantidade de atores = 4;
+Número de Entidades = 6;
+
+Fórmula Tamanho = (Somatória do peso dos atores + Somatória do peso dos requisitos) * fator técnico * fator ambiental
+Tamanho = [(4 * 5) + (5 * 24)] * 1.3 * 0.9 = 163.8 UCP
+
+Fórmula Esforço = Tamanho * Produtividade
+Esforço = 52.65 * 3 = 491.4 horas
+
+Esforço Global = (Somatória do peso dos atores + Somatória do peso dos requisitos) * fator técnico * fator ambiental * Esforço Total
+Esforço Global = (3 * 5 + 5) * 1.3 * 0.9 * 3 * 50% = 245.7
